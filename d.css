@@ -1,0 +1,42 @@
+body{
+ background-color:green;
+border-radius:40px;
+
+}
+/*@keyframes animate{
+  0%{
+    filter: hue-rotate(0deg);
+  }
+  100%{
+    filter: hue-rotate(360deg);
+  }
+}*/
+input{
+  background-color:green;
+  width: 100%
+  margin-left:200px;
+  align-content: center;
+  justify-content: center;
+  border-radius:40px;
+
+}
+form{
+ background: linear-gradient(blue,red,yellow,black,skyblue);
+ /* animation: animate 1s infinite;*/
+ 
+
+ margin-bottom: 200px;
+  margin-left: 400px;
+  width: 400px;
+  padding:30;
+  margin-top: 100px;
+  border-radius: 23px;
+  border:3padding solid 20px;
+}
+h1{
+  align-content: center;
+  justify-content: center;
+  margin-left: 420px;
+  margin-top: 90px;
+  margin-center:90px;
+}
